@@ -35,4 +35,4 @@ Anuj Yadav
 BCA Student(TMU)
 
 ## ⭐ GitHub Profile
-[# python-basic-projects](https://github.com/anujy790000-create)
+[Anuj Yadav](https://github.com/anujy790000-create)
