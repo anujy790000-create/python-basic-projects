@@ -12,6 +12,7 @@ This repository contains beginner-level Python programs created for practice and
 - Palindrome Checker
 - Contact Book
 - Dice Rolling Simulator
+- Password Strength Checker
 
 ## 🛠️ Technologies Used
 - Python 3
