@@ -13,6 +13,7 @@ This repository contains beginner-level Python programs created for practice and
 - Contact Book
 - Dice Rolling Simulator
 - Password Strength Checker
+- Simple Ceasar Cipher
 
 ## 🛠️ Technologies Used
 - Python 3
