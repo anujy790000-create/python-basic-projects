@@ -15,6 +15,7 @@ This repository contains beginner-level Python programs created for practice and
 - Password Strength Checker
 - Simple Ceasar Cipher
 - Contact Book (Dictionary Based)
+- medical_data_validator
 
 ## 🛠️ Technologies Used
 - Python 3
